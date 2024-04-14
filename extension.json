@@ -13,7 +13,7 @@
     ]
   },
   "Hooks": {
-    "SkinTemplateOutputPageBeforeExec": "TopLinkHooks::onSkinTemplateOutputPageBeforeExec"
+    "SkinAddFooterLinks": "TopLinkHooks::onSkinAddFooterLinks"
   },
   "AutoloadClasses": {
     "TopLinkHooks": "TopLink.hooks.php"
